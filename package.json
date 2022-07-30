@@ -1,0 +1,23 @@
+{
+  "name": "bubblesort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamiElsayed/bubblesort.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamiElsayed/bubblesort/issues"
+  },
+  "homepage": "https://github.com/RamiElsayed/bubblesort#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
